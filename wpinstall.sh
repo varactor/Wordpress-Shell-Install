@@ -1,17 +1,10 @@
 #!/bin/bash
  
-# Original Install script for Latest WordPress by Johnathan Williamson and extended by Don Gilbert
-# Enhanced by Oliver M Grech
-
-#Creating a Database
-
-
-
+# Written by Oliver M. Grech - olivermgrech.com
 
 echo "MySQL Host:"
 read mysqlhost
 export mysqlhost
-
 
 
 echo "Database Admin Username:"
